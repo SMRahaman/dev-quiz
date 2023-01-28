@@ -1,3 +1,12 @@
+#Dev-Quiz 
+ Development quiz based website application. There are use React JS Including React Bootstrap . There have more some fetures 
+ Fetures:
+ 1. Quiz score count
+ 2. Quiz total question show with rechart
+ 3. REST API use
+ 4. Fully Daynamic Web Application.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
